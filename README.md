@@ -56,6 +56,21 @@ It should look like below:
   title="First Image"
   style="display: inline-block; margin: 0 auto; max-width: 300px;">
 
+  </br>
+
+<b><i style="size:30px;">Note:</i></b>
+
+The above screenshots run on port 3000
+
+To run the project on your desired port, use the following command:
+
+python manage.py runserver your_port_number
+
+```
+python manage.py runserver 3000
+```
+
+
 
 
 
