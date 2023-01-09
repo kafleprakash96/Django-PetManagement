@@ -1,7 +1,7 @@
 
 
 
-Welcome to the <h2><i> Django Pet Management System </i></h2>.
+Welcome to the <i> Django Pet Management System </i>.
 This app keeps the track of pet vaccination.
 
 Prerequisites
@@ -15,7 +15,8 @@ Installation
 To install the app, follow these steps:
 
 Clone the repository
-Navigate to the root directory of the repository i.e. wisdompets
+Navigate to the root directory of the repository i.e. wisdompets.
+</br>
 Run the following command to install the required packages:
 
 ```
@@ -36,20 +37,21 @@ Then, visit http://localhost:8000 in your web browser to view the app.
 It should look like below:
 
 <img
-  src="image1.png"
+  src="demo_images/image1.jpg"
   alt="Screenshot of app"
   title="First Image"
   style="display: inline-block; margin: 0 auto; max-width: 300px;">
 
 </br>
 <img
-  src="image2.png"
+  src="demo_images/image2.jpg"
   alt="Screenshot of app"
   title="First Image"
   style="display: inline-block; margin: 0 auto; max-width: 300px;">
-<br>
+
+</br>
 <img
-  src="image3.png"
+  src="demo_images/image3.jpg"
   alt="Screenshot of app"
   title="First Image"
   style="display: inline-block; margin: 0 auto; max-width: 300px;">
