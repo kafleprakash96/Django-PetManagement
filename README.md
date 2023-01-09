@@ -19,7 +19,9 @@ Clone the repository
 Navigate to the root directory of the repository i.e. wisdompets
 Run the following command to install the required packages:
 
-<pre><code class="python hljs">pip install -r requirements.txt</code></pre>
+```
+pip install -r requirements.txt
+```
 
 Usage
 
