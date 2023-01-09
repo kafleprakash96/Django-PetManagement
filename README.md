@@ -27,31 +27,18 @@ Usage
 
 To start the development server, run the following command:
 
-<pre><code class="python hljs">python manage.py runserver</code></pre>
+```
+python manage.py runserver
+```
 
 Then, visit http://localhost:8000 in your web browser to view the app.
 
 
+It should look like below:
 
+<img
+  src="image1.png"
+  alt="Screenshot of app"
+  title="First Image"
+  style="display: inline-block; margin: 0 auto; max-width: 300px;">
 
-<script>
-  document.addEventListener('DOMContentLoaded', (event) => {
-    document.querySelectorAll('pre code').forEach((block) => {
-      hljs.highlightBlock(block);
-      const copyButton = document.createElement('button');
-      copyButton.classList.add('copy-button');
-      copyButton.innerHTML = 'Copy';
-      block.parentNode.appendChild(copyButton);
-      copyButton.addEventListener('click', () => {
-        navigator.clipboard.writeText(block.innerText).then(() => {
-          copyButton.innerHTML = 'Copied!';
-          setTimeout(() => {
-            copyButton.innerHTML = 'Copy';
-          }, 1000);
-        }, () => {
-          copyButton.innerHTML = 'Error';
-        });
-      });
-    });
-  });
-</script>
