@@ -1,8 +1,7 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/styles/default.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js"></script>
 
 
-Welcome to the Django Pet Management System app.
+
+Welcome to the <h2><i> Django Pet Management System </i></h2>.
 This app keeps the track of pet vaccination.
 
 Prerequisites
@@ -41,4 +40,20 @@ It should look like below:
   alt="Screenshot of app"
   title="First Image"
   style="display: inline-block; margin: 0 auto; max-width: 300px;">
+
+</br>
+<img
+  src="image2.png"
+  alt="Screenshot of app"
+  title="First Image"
+  style="display: inline-block; margin: 0 auto; max-width: 300px;">
+<br>
+<img
+  src="image3.png"
+  alt="Screenshot of app"
+  title="First Image"
+  style="display: inline-block; margin: 0 auto; max-width: 300px;">
+
+
+
 
